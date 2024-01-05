@@ -50,7 +50,7 @@ pip install -r requirements.txt --user
 | CB600F       | 2010      | 256 kb   | 38770-MGM-B11  | 3FFF8            |        |        |                |
 | CB650F       | 2015      | 256 kb   | 38770-MJE-B41  | 3FFF8            |        |        |                |
 | CB600F/R     | 2010-2011 | 256 kb   | 38770-MFG-Bxx- | 3FFF8            |        |        |                |
-| Transalp700  | 2013      | 256 kb   | 38770-MFF-B01  | 3FFF8            |        |        |                |
+| Transalp700  | 2013      | 256 kb   | 38770-MFF-B01  | 3FFF8            |        | M32R   |                |
 | Shadow 750   | 2009      | 256 kb   | 38770-MGE-B21  | 3FFF8            |        |        |                |
 | NC750X       | 2015      | 256 kb   | 38770-Mxx-xxx  | 3FFF8            |        |        |                |
 | NC750S       | 2016      | 512 kb   | 38770-MJL-D72  | 7FFF8            |        |        |                |
